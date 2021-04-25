@@ -1264,7 +1264,7 @@ TextureImporter:
       name: Sprite_Mario_attack3
       rect:
         serializedVersion: 2
-        x: 61
+        x: 60
         y: 15
         width: 16
         height: 26
